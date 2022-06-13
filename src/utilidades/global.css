@@ -1,7 +1,7 @@
 body {
   margin: 0px;
   font-family: Arial, Helvetica, sans-serif;
-  color: var(--cor-c2);
+  background: var(--cor-c2);
   height: 844px;
   width: 390px;
 }
