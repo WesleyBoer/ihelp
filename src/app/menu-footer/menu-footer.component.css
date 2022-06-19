@@ -8,11 +8,11 @@
 
   /* c2 */
 
-  background: var(--cor-c3);
+  background: var(--cor-c2);
   box-shadow: 6px 0px 6px rgba(0, 0, 0, 0.35);
 }
 
 .nav-icon {
-  color: var(--cor-b4);
+  color: var(--cor-b3);
   transform: scale(1.2);
 }

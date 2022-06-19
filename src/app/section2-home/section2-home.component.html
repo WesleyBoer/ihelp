@@ -1,0 +1,12 @@
+<section class="container-fluid pt-5">
+  <h2 class="font-1-xl cor-o6 pb-3">Serviços mais utilizados</h2>
+  <div class="d-flex flex-row flex-nowrap overflow-auto">
+    <div *ngFor="let profissional of profissionais2" class="card card-block mx-1" style="min-width: 9rem;">
+      <img src="{{profissional.img}}" class="card-img-top" alt="...">
+      <div class="card-body">
+        <p class="card-text text-center font-2-xxs cor-b9">{{profissional.nome}}</p>
+        <span class="font-2-xxxs cor-o7">Preço médio: {{profissional.precoMedio | currency}}</span>
+      </div>
+    </div>
+  </div>
+</section>

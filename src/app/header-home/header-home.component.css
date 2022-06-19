@@ -1,9 +1,8 @@
-.header {
-position: absolute;
-width: 354px;
-height: 96px;
-left: 17px;
-top: 19px;
-color: var(--cor-b8);
-gap: 40px;
+.header-icon {
+  transform: scale(1.1);
+  color: var(--cor-b8);
+}
+
+.header-intro {
+
 }

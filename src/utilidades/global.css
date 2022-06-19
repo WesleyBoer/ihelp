@@ -2,8 +2,13 @@ body {
   margin: 0px;
   font-family: Arial, Helvetica, sans-serif;
   background: var(--cor-c2);
-  height: 844px;
-  width: 390px;
+  max-height: 844px;
+  max-width: 390px;
+}
+
+.container-body {
+  padding-left: 18px;
+  padding-right: 18px;
 }
 
 h1,

@@ -5,6 +5,14 @@
   font: 400 0.75rem/1.35 "Londrina Solid", cursive;
 }
 
+.font-2-xxxs {
+  font: 400 0.625rem/1.43 "Roboto", sans-serif;
+}
+
+.font-2-xxs {
+  font: 400 0.75rem/1.43 "Roboto", sans-serif;
+}
+
 .font-2-xs {
   font: 400 0.875rem/1.43 "Roboto", sans-serif;
 }
